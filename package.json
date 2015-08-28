@@ -1,7 +1,8 @@
 {
-  "name": "yusuke-starter-kit1",
+  "name": "staticsite-starterkit",
   "version": "0.0.1",
-  "description": "",
+  "description": "Starter Kit for a Simple Website Development.",
+  "author": "Yusuke Takahashi <youthkee@gmail.com>",
   "scripts": {
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +23,6 @@
     "gulp-shell": "^0.4.2",
     "gulp-uglify": "^1.2.0",
     "marked": "^0.3.5"
-  }
+  },
+  "license": "GPL2"
 }

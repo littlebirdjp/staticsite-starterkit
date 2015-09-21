@@ -55,7 +55,8 @@ gulp.task('compass', function() {
     style: 'expanded',
     comments: false,
     css: paths.css,
-    sass: paths.scss
+    sass: paths.scss,
+    bundle_exec: true
   }))
   .pipe(gulp.dest(paths.css))
     .pipe(browserSync.reload({

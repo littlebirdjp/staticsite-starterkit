@@ -17,7 +17,7 @@ Starter Kit for a Simple Website Development.
 
 ## Installation
 
-Install required modules.
+Install required packages.
 
 ```
 $ npm i
@@ -42,7 +42,3 @@ or
 ```
 $ npm start
 ```
-
-## Author
-
-[@yourhkee](https://twitter.com/youthkee)
